@@ -1,4 +1,4 @@
-# worldcup2026
+# FIFA World Cup 2026
 AI, Optimizations, and Predictions for World Cup 2026
 
 # More Resources
